@@ -11,7 +11,7 @@ const Footer = () => {
       <Link href="/">
         <Image src="/images/InvestHUB.png" width={150} height={150} />
       </Link>
-      <p class="mt-2 text-sm text-gray-500">Air plant banjo lyft occupy retro adaptogen indego</p>
+      <p class="mt-2 text-sm text-gray-500">InvestHUB --- An Hybrid Crowdfunding Platform</p>
     </div>
 
     <div class="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center md:w-2/3">

@@ -6,11 +6,12 @@ import Footer from './Footer'
 import Team from './Team'
 
 const About = () => {
+  const searchQuery = '';
   return (
     <>
     <Header/>
-    <Know/>
-    <Services/>
+    <Know searchQuery={searchQuery}/>
+    <Services searchQuery={searchQuery}/>
     <Team/>
     <Footer/>
     </>
